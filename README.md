@@ -1,4 +1,4 @@
-# UTasbih
+# UTasbih (Educational project)
 
 ##### EN
 UTasbih is a small Android app created by [UDevCommunity](https://www.facebook.com/UDevCommunity/) as part of a collaborative Android development training project for the new members. The purpose of the application is to facilitate El-Adhkar and Et-Tasbih.
